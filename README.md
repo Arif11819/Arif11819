@@ -7,7 +7,7 @@
 # Hi there, I'm Ariful Islam  👋 
 
 
-## I'm a Front-End Developer, Student!!
+## I'm a Front-End Developer!!
 
 - 🔭 Check out my portfolio: [Become A MERN Stack Developer!][website]!
 - 🌱 I’m currently learning Advanced Backend 🤣
@@ -41,7 +41,7 @@
 ### 📕 My GitHub Stars
 
 
-<img alt="" width="full" src="https://i.ibb.co/Z2dkdSF/We-Are-Hiring-940-x-788-px.png" style="padding-right:10px;" />
+<img alt="" width="full" src="https://i.ibb.co/v1yFy1p/The-Future-Of-Design-Industry-851-x-315-px.png" style="padding-right:10px;" />
 
 <br />
 <br />
