@@ -2,8 +2,6 @@
 <img alt="" width="full" src="https://i.ibb.co/ygg59HT/MD-Ariful-Islam-15.png" style="padding-right:10px;" />
 
 <br />
-<br />
-
 # Hi there, I'm Ariful Islam  👋 
 
 
