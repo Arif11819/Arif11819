@@ -32,19 +32,8 @@
 <br />
 <br />
 
----
+<img alt="" width="full" src="https://camo.githubusercontent.com/2648a61b79de4218f522b8f17b4c1b35fb9757db4c3c33f417e915f0e3fe1864/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d6f7a6168696461686d6564267468656d653d626c61636b2d69636526686964655f626f726465723d74727565267374726f6b653d30303030266261636b67726f756e643d3036304130434430" style="padding-right:10px;" />
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Learning to Code is NOT Hard!!](https://www.youtube.com/watch?v=5jzIjU7Ed9o)
-- [12 ways to center a div](https://www.youtube.com/watch?v=WM02RIeE1Fs)
-- [How to center a div 12 ways!!](https://www.youtube.com/watch?v=kphds-1V9o8)
-- [JavaScript Variables](https://www.youtube.com/watch?v=oXegXhqGQ30)
-- [What is JavaScript? Click to watch more 👇](https://www.youtube.com/watch?v=asyHJSlYwX0)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
 
 ---
 
