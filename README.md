@@ -3,12 +3,12 @@
 
 ## I'm a Front-End Developer, Student!!
 
-- 🔭 Check out my VS Code course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
-- ⚡ Fun fact: I love to draw and play guitar / drums
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 🔭 Check out my portfolio: [Become A MERN Stack Developer!][website]!
+- 🌱 I’m currently learning Advanced Backend 🤣
+- 👯 I’m looking to collaborate with other Web Developer.
+- 🥅 2022 Goals: Learn more about MERN Stack Web Development.
+- ⚡ Fun fact: I love to play sports like football and cricket.
+- 😻 Check out Our Team Project: [projects]
 
 ### Connect with me:
 
@@ -100,8 +100,8 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
+[website]: https://sweet-biscochitos-218a14.netlify.app/
+[projects]: https://topgearperformbd.web.app/
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
