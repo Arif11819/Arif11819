@@ -8,24 +8,11 @@
 - 👯 I’m looking to collaborate with other Web Developer.
 - 🥅 2022 Goals: Learn more about MERN Stack Web Development.
 - ⚡ Fun fact: I love to play sports like football and cricket.
-- 😻 Check out Our Team Project: [projects]
+- 😻 Check out Our Team Project: [TopGearPerform]
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+[Linkedin] [Twitter] [Instagram] [Youtube]
 
 ### Languages and Tools:
 
@@ -101,11 +88,11 @@
 </details>
 
 [website]: https://sweet-biscochitos-218a14.netlify.app/
-[projects]: https://topgearperformbd.web.app/
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[TopGearPerform]: https://topgearperformbd.web.app/
+[Twitter]: https://twitter.com/ArifulI12455813
+[Youtube]: https://www.youtube.com/channel/UCUV4RAFoINdO3REONWKPvjA
+[Instagram]: https://www.instagram.com/
+[Linkedin]: https://www.linkedin.com/in/md-ariful-islam-032243241/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
