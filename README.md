@@ -1,8 +1,9 @@
 
-[<img align="left" alt="" width="500px" src="https://i.ibb.co/JHNXGCC/MD-Ariful-Islam-13.png" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="" width="full" src="https://i.ibb.co/JHNXGCC/MD-Ariful-Islam-13.png" style="padding-right:10px;" />][webdevplaylist]
+<br />
 # Hi there, I'm Ariful Islam  👋 
 
-
+<br />
 ## I'm a Front-End Developer, Student!!
 
 - 🔭 Check out my portfolio: [Become A MERN Stack Developer!][website]!
