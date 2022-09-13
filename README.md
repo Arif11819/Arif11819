@@ -1,6 +1,7 @@
 <img align="left" src="https://i.ibb.co/ygg59HT/MD-Ariful-Islam-15.png" height="full" width="full" alt="" />
 
-<br><br>
+<br/>
+<br/>
 
 <h1 align="center">Hi 👋, I'm Md Ariful Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
@@ -36,7 +37,7 @@
 
 <br><br>
 
-<p><a href="https://www.buymeacoffee.com/@arifulislam11819"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="" /></a></p>
+<p><a href="https://www.buymeacoffee.com/@arifulislam11819"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="" /></a></p><br><br>
 
 <br><br>
 
