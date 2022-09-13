@@ -44,11 +44,9 @@
 <img alt="" width="full" src="https://i.ibb.co/v1yFy1p/The-Future-Of-Design-Industry-851-x-315-px.png" style="padding-right:10px;" />
 
 <br />
-<br />
 
 <img alt="" width="full" src="https://camo.githubusercontent.com/adbf0c1da455ffa7becea1e3d187dde1c1007511b21da30a87202e31fc652e50/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d6f7a6168696461686d6564266c616e67735f636f756e743d3826636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d304431313137" style="padding-right:10px;" />
 
-<br />
 <br />
 
 <p>Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</p>
