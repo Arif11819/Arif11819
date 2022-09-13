@@ -1,4 +1,4 @@
-# Hi there, I'm Ariful Islam [Arif11819][Website] 👋 
+# Hi there, I'm Ariful Islam  👋 
 
 
 ## I'm a Front-End Developer, Student!!
