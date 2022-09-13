@@ -40,7 +40,7 @@
 ### 📕 My GitHub Stars
 
 
-<img alt="" width="full" src="https://i.ibb.co/v1yFy1p/The-Future-Of-Design-Industry-851-x-315-px.png" style="padding-right:10px;" />
+<img alt="" width="full" src="https://i.ibb.co/687z5G6/MD-Ariful-Islam-16.png" style="padding-right:10px;" />
 
 <br />
 
