@@ -1,5 +1,5 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--7QWqH9YU--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pp4ll13f5onw4gqj8ggl.jpg)]
-<h1 align="center">Hi 👋, I'm Md Ahatasamul Haque</h1>
+<img align="left" src="https://i.ibb.co/ygg59HT/MD-Ariful-Islam-15.png" height="50" width="210" alt="@ahatasam2573" />
+<h1 align="center">Hi 👋, I'm Md Ariful Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
