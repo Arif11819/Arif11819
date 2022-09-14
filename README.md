@@ -41,5 +41,5 @@
 
 <p>&nbsp;<img align="center" src="https://i.ibb.co/XkMR3d6/MD-Ariful-Islam-18.png" alt="" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahatasam2573&" alt="" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ahatasam2573&" alt="" /></p>
 <p><img align="center" src="https://i.ibb.co/12wB0Vs/Screenshot-14.png" alt="" /></p>
